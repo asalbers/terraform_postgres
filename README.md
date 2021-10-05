@@ -64,7 +64,7 @@ Only a few values are hardcoded in the main.tf. You can leave the values below s
 geo_redundant_backup_enabled = false
 auto_grow_enabled            = false
 ```
-If there are additional configuration values you want to set you can look at the p[provider reference](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server).
+If there are additional configuration values you want to set you can look at the [provider reference](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/postgresql_server).
 
 ### Variables.tf
 
