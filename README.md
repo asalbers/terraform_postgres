@@ -22,6 +22,9 @@ Suggested vscode extensions:
 Azure Terraform
 HashiCorp Terraform
 
+## Azure authentication
+
+Make sure you ran "az login" and followed the prompts or have a service principal specified with the variables exported in your shell.
 
 ## Looking over terraform files
 
