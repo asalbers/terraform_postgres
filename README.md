@@ -26,6 +26,11 @@ HashiCorp Terraform
 
 Make sure you ran "az login" and followed the prompts or have a service principal specified with the variables exported in your shell.
 
+```sh
+az login
+az account set -s <sub id>
+```
+
 ## Looking over terraform files
 
 Clone the files to your local machine or copy them from the github repo
